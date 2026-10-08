@@ -1,0 +1,15 @@
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\Z03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\Z03.AssemblyInfoInputs.cache
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\Z03.AssemblyInfo.cs
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\Z03.csproj.CoreCompileInputs.cache
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\Z03.sourcelink.json
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\bin\Debug\net10.0\Z03.exe
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\bin\Debug\net10.0\Z03.deps.json
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\bin\Debug\net10.0\Z03.runtimeconfig.json
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\bin\Debug\net10.0\Z03.dll
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\bin\Debug\net10.0\Z03.pdb
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\Z03.dll
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\refint\Z03.dll
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\Z03.pdb
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\Z03.genruntimeconfig.cache
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z03\obj\Debug\net10.0\ref\Z03.dll

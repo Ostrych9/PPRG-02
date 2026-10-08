@@ -1,0 +1,15 @@
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\bin\Debug\net10.0\Z04.exe
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\bin\Debug\net10.0\Z04.deps.json
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\bin\Debug\net10.0\Z04.runtimeconfig.json
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\bin\Debug\net10.0\Z04.dll
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\bin\Debug\net10.0\Z04.pdb
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\Z04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\Z04.AssemblyInfoInputs.cache
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\Z04.AssemblyInfo.cs
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\Z04.csproj.CoreCompileInputs.cache
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\Z04.sourcelink.json
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\Z04.dll
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\refint\Z04.dll
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\Z04.pdb
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\Z04.genruntimeconfig.cache
+C:\Users\s37534\Repos\PPRG02\PPRG-02\Z04\obj\Debug\net10.0\ref\Z04.dll

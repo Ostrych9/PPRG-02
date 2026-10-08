@@ -1,0 +1,15 @@
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\PPRG-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\PPRG-02.AssemblyInfoInputs.cache
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\PPRG-02.AssemblyInfo.cs
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\PPRG-02.csproj.CoreCompileInputs.cache
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\PPRG-02.sourcelink.json
+C:\Users\s37534\Repos\PPRG02\PPRG-02\bin\Debug\net10.0\PPRG-02.exe
+C:\Users\s37534\Repos\PPRG02\PPRG-02\bin\Debug\net10.0\PPRG-02.deps.json
+C:\Users\s37534\Repos\PPRG02\PPRG-02\bin\Debug\net10.0\PPRG-02.runtimeconfig.json
+C:\Users\s37534\Repos\PPRG02\PPRG-02\bin\Debug\net10.0\PPRG-02.dll
+C:\Users\s37534\Repos\PPRG02\PPRG-02\bin\Debug\net10.0\PPRG-02.pdb
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\PPRG-02.dll
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\refint\PPRG-02.dll
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\PPRG-02.pdb
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\PPRG-02.genruntimeconfig.cache
+C:\Users\s37534\Repos\PPRG02\PPRG-02\obj\Debug\net10.0\ref\PPRG-02.dll
