@@ -25,34 +25,45 @@ int critattack = (int)(attack * crit);
 
 Console.WriteLine("Czy twój bohater ma mapę? (true/false)");
 bool map = bool.Parse(Console.ReadLine());
-int mapv = map ? 1 : 0;
+int mapv = Convert.ToInt32(map);
 Console.WriteLine("Czy twój bohater ma pochodnię? (true/false)");
 bool torch = bool.Parse(Console.ReadLine());
-int torchv = torch ? 1 : 0;
+int torchv = Convert.ToInt32(torch);
 Console.WriteLine("Ile twój bohater posiada mikstur? (0-3)");
 int pot = int.Parse(Console.ReadLine());
 
-int gold = pot * 5 + mapv * 10 + torchv * 12;
+int gold = pot * 5;
+gold += mapv * 10;
+gold += torchv * 12;
+gold -= 2;
 int inv = mapv + torchv + pot;
 
 
 bool alive = hp > 0;
 bool full = hp == maxhp;
-bool freeslots = inv < 5;
+int free = 5 - inv;
+bool freeslots = free > 0;
+bool ready = alive && freeslots && map && torch;
+
+
+int hits = (200 + attack - 1) / attack;
+int excess = (attack - (200 % attack)) % attack;
+
 
 Console.WriteLine("+==========================================+");
 Console.WriteLine("|             KARTA BOHATERA               |");
 Console.WriteLine("+==========================================+");
 Console.WriteLine($" Bohater: {name}");
 Console.WriteLine("+==========================================+");
-Console.WriteLine($" Zdrowie: {hp}/{maxhp} ({hpPercent})");
+Console.WriteLine($" Zdrowie: {hp}/{maxhp} ({hpPercent:F2}%)");
 Console.WriteLine($" Siła: {damage}");
 Console.WriteLine($" Bonus od broni: {bonus}");
 Console.WriteLine($" Zwykłe obrażenia: {attack}");
-Console.WriteLine($" Mnożnik ataku krytycznego: {crit}");
-Console.WriteLine($" Obrażenia ataku krytycznego: {attack * crit}");
+Console.WriteLine($" Mnożnik ataku krytycznego: {crit:F2}");
+Console.WriteLine($" Obrażenia ataku krytycznego: {critattack}");
 Console.WriteLine("+==========================================+");
 Console.WriteLine($" Ekwipunek: {inv}/5");
+Console.WriteLine($" Mikstury: {pot}");
 Console.WriteLine($" Mapa: {map}");
 Console.WriteLine($" Pochodnia: {torch}");
 Console.WriteLine($" Wartość ekwipunku: {gold}");
@@ -60,5 +71,7 @@ Console.WriteLine("+==========================================+");
 Console.WriteLine($" Żyje: {alive}");
 Console.WriteLine($" Ma pełne zdrowie: {full}");
 Console.WriteLine($" Potrzebuje leczenia: {!full}");
-Console.WriteLine($" Ma wolne miejsca w ekwipunku: {freeslots}");
+Console.WriteLine($" Ma wolne miejsca w ekwipunku: {freeslots} ({free} wolnych miejsc)");
+Console.WriteLine($" Gotowy do wyprawy: {ready}");
 Console.WriteLine("+==========================================+");
+Console.WriteLine($" Żeby zabić przeciwnika posiadającego 200 zdrowia, musisz zaatakować {hits} razy, zadając {excess} nadmiarowych obrażeń.");
